@@ -40,7 +40,7 @@
 </a>
 
 <br><br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 </div>
@@ -55,16 +55,17 @@
   <br><br>
 </div>
 
-<table align="center" width="100%">
+<!-- ===== SOBRE MÍ - RESPONSIVE ===== -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="65%" style="background-color: #E8F5EE; padding: 25px; border-radius: 12px; color: #008259;">
+<td width="65%" style="background-color: #E8F5EE; padding: 20px; border-radius: 12px; color: #008259; border: none; display: block; width: 100%; box-sizing: border-box;">
 
 Soy **Ingeniero en Desarrollo y Gestión de Software** con experiencia en desarrollo web y móvil. Me interesa construir aplicaciones completas: desde la interfaz y experiencia de usuario, hasta la lógica de negocio, APIs y manejo de datos.
 
 Actualmente estoy explorando distintas áreas del desarrollo para definir mi especialización, con especial interés en **backend y desarrollo de APIs**.
 
 </td>
-<td width="35%" align="center" style="background-color: #2ca880; padding: 25px; border-radius: 12px; color: #FFFFFF; font-weight: bold;">
+<td width="35%" align="center" style="background-color: #2ca880; padding: 20px; border-radius: 12px; color: #FFFFFF; font-weight: bold; border: none; display: block; width: 100%; box-sizing: border-box; margin-top: 10px;">
 
 ✦<br><br>
 **Buscando**<br>
@@ -76,7 +77,7 @@ Backend Developer Jr.
 </table>
 
 <br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -89,41 +90,50 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
+<!-- ===== STACK - RESPONSIVE ===== -->
+<div align="center">
+  <table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
 
-**Backend**
-<br><br>
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,firebase,postgres,mysql" />
+    **Backend**
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,firebase,postgres,mysql" style="max-width: 100%; height: auto;" />
 
-</td>
-<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
 
-**Frontend**
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" />
+    **Frontend**
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" style="max-width: 100%; height: auto;" />
 
-</td>
-<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
 
-**Mobile**
-<br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+    **Mobile**
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart" style="max-width: 100%; height: auto;" />
 
-</td>
-<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box;">
 
-**Herramientas**
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode" />
+    **Herramientas**
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode" style="max-width: 100%; height: auto;" />
 
-</td>
-</tr>
-</table>
+    </td>
+  </tr>
+  </table>
+</div>
 
 <br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -136,9 +146,10 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<table align="center" width="100%">
+<!-- ===== EXPERIENCIA - RESPONSIVE ===== -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08);">
+<td style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08); border: none; display: block; width: 100%; box-sizing: border-box;">
 
 **Desarrollador de Software**<br>
 `Servicios en Consultoría Hermes S.A. de C.V.` · *May 2026 — Ago 2026*
@@ -153,9 +164,9 @@ Backend Developer Jr.
 
 </td>
 </tr>
-<tr><td><br></td></tr>
+<tr><td style="border: none; height: 10px;"></td></tr>
 <tr>
-<td style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08);">
+<td style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08); border: none; display: block; width: 100%; box-sizing: border-box;">
 
 **Practicante de Ingeniería en Software**<br>
 `Complejo Logístico de la Fuerza Aérea Mexicana (CIDTFA)` · *Jun 2025 — Nov 2025*
@@ -170,7 +181,7 @@ Backend Developer Jr.
 </table>
 
 <br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -183,9 +194,10 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<table align="center" width="100%">
+<!-- ===== EDUCACIÓN & GITHUB - RESPONSIVE ===== -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="45%" style="background-color: #E8F5EE; padding: 20px; border-radius: 12px; color: #008259;">
+<td style="background-color: #E8F5EE; padding: 15px; border-radius: 12px; color: #008259; border: none; display: block; width: 100%; box-sizing: border-box;">
 
 **Formación académica**
 
@@ -196,23 +208,26 @@ Backend Developer Jr.
 | **CECyTEH**, Tizayuca | Técnico en Programación | 2019 — 2022 |
 
 </td>
-<td width="55%" align="center" style="background-color: #2ca880; padding: 20px; border-radius: 12px;">
+</tr>
+<tr><td style="border: none; height: 10px;"></td></tr>
+<tr>
+<td align="center" style="background-color: #2ca880; padding: 15px; border-radius: 12px; border: none; display: block; width: 100%; box-sizing: border-box;">
 
 **Actividad en GitHub**
 <br><br>
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" style="max-width: 100%; height: auto;" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" />
-<img height="150" src="https://github-readme-streak-stats-eight.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" style="max-width: 100%; height: auto;" />
+<img height="150" src="https://github-readme-streak-stats-eight.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" style="max-width: 100%; height: auto;" />
 </div>
 
 <br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -225,7 +240,8 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<div align="center">
+<!-- ===== HABILIDADES - RESPONSIVE ===== -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
 
 ![](https://img.shields.io/badge/TRABAJO_EN_EQUIPO-008259?style=for-the-badge&logo=team&logoColor=FFFFFF&color=008259)
 ![](https://img.shields.io/badge/COMUNICACIÓN_EFECTIVA-008259?style=for-the-badge&logo=wechat&logoColor=FFFFFF&color=008259)
@@ -236,7 +252,7 @@ Backend Developer Jr.
 </div>
 
 <br>
-<!-- ===== DIVISOR VERDE ===== -->
+<!-- ===== DIVISOR ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -249,6 +265,7 @@ Backend Developer Jr.
   <br><br>
 </div>
 
+<!-- ===== CONTACTO - RESPONSIVE ===== -->
 <div align="center">
 
 Si estás buscando un desarrollador junior con interés en seguir creciendo en desarrollo **backend, frontend o mobile**, puedes contactarme.
