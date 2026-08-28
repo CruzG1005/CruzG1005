@@ -40,7 +40,7 @@
 </a>
 
 <br><br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 </div>
@@ -76,7 +76,7 @@ Backend Developer Jr.
 </table>
 
 <br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -89,7 +89,6 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== STACK TECNOLÓGICO - CORREGIDO ===== -->
 <table align="center" width="100%">
 <tr>
 <td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
@@ -124,7 +123,7 @@ Backend Developer Jr.
 </table>
 
 <br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -171,7 +170,7 @@ Backend Developer Jr.
 </table>
 
 <br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -184,7 +183,6 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== EDUCACIÓN & GITHUB - CORREGIDO ===== -->
 <table align="center" width="100%">
 <tr>
 <td width="45%" style="background-color: #E8F5EE; padding: 20px; border-radius: 12px; color: #008259;">
@@ -202,19 +200,19 @@ Backend Developer Jr.
 
 **Actividad en GitHub**
 <br><br>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" />
-<img height="150" src="https://github-readme-streak-stats.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" />
+<img height="150" src="https://github-readme-streak-stats-eight.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" />
 </div>
 
 <br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
@@ -238,7 +236,7 @@ Backend Developer Jr.
 </div>
 
 <br>
-<!-- ===== DIVISOR ===== -->
+<!-- ===== DIVISOR VERDE ===== -->
 <img width="100%" src="https://placehold.co/1200x4/57bd9e/57bd9e.png" alt="Divisor" />
 
 <!-- ======================================== -->
