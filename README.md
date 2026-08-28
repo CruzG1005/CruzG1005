@@ -55,17 +55,16 @@
   <br><br>
 </div>
 
-<!-- ===== SOBRE MÍ - RESPONSIVE ===== -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%">
 <tr>
-<td width="65%" style="background-color: #E8F5EE; padding: 20px; border-radius: 12px; color: #008259; border: none; display: block; width: 100%; box-sizing: border-box;">
+<td width="65%" style="background-color: #E8F5EE; padding: 25px; border-radius: 12px; color: #008259;">
 
 Soy **Ingeniero en Desarrollo y Gestión de Software** con experiencia en desarrollo web y móvil. Me interesa construir aplicaciones completas: desde la interfaz y experiencia de usuario, hasta la lógica de negocio, APIs y manejo de datos.
 
 Actualmente estoy explorando distintas áreas del desarrollo para definir mi especialización, con especial interés en **backend y desarrollo de APIs**.
 
 </td>
-<td width="35%" align="center" style="background-color: #2ca880; padding: 20px; border-radius: 12px; color: #FFFFFF; font-weight: bold; border: none; display: block; width: 100%; box-sizing: border-box; margin-top: 10px;">
+<td width="35%" align="center" style="background-color: #2ca880; padding: 25px; border-radius: 12px; color: #FFFFFF; font-weight: bold;">
 
 ✦<br><br>
 **Buscando**<br>
@@ -90,47 +89,39 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== STACK - RESPONSIVE ===== -->
-<div align="center">
-  <table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
+<!-- ===== STACK TECNOLÓGICO - CORREGIDO ===== -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
 
-    **Backend**
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,firebase,postgres,mysql" style="max-width: 100%; height: auto;" />
+**Backend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,firebase,postgres,mysql" />
 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
+</td>
+<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
 
-    **Frontend**
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" style="max-width: 100%; height: auto;" />
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" />
 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box; margin-bottom: 10px;">
+</td>
+<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
 
-    **Mobile**
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=flutter,dart" style="max-width: 100%; height: auto;" />
+**Mobile**
+<br><br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1); border: none; display: block; width: 100%; box-sizing: border-box;">
+</td>
+<td align="center" width="25%" style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,130,89,0.1);">
 
-    **Herramientas**
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode" style="max-width: 100%; height: auto;" />
+**Herramientas**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode" />
 
-    </td>
-  </tr>
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 <!-- ===== DIVISOR ===== -->
@@ -146,10 +137,9 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== EXPERIENCIA - RESPONSIVE ===== -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%">
 <tr>
-<td style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08); border: none; display: block; width: 100%; box-sizing: border-box;">
+<td style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08);">
 
 **Desarrollador de Software**<br>
 `Servicios en Consultoría Hermes S.A. de C.V.` · *May 2026 — Ago 2026*
@@ -164,9 +154,9 @@ Backend Developer Jr.
 
 </td>
 </tr>
-<tr><td style="border: none; height: 10px;"></td></tr>
+<tr><td><br></td></tr>
 <tr>
-<td style="background-color: #FFFFFF; padding: 15px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08); border: none; display: block; width: 100%; box-sizing: border-box;">
+<td style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; border-left: 5px solid #008259; color: #008259; box-shadow: 0 2px 8px rgba(0,130,89,0.08);">
 
 **Practicante de Ingeniería en Software**<br>
 `Complejo Logístico de la Fuerza Aérea Mexicana (CIDTFA)` · *Jun 2025 — Nov 2025*
@@ -194,10 +184,10 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== EDUCACIÓN & GITHUB - RESPONSIVE ===== -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<!-- ===== EDUCACIÓN & GITHUB - CORREGIDO ===== -->
+<table align="center" width="100%">
 <tr>
-<td style="background-color: #E8F5EE; padding: 15px; border-radius: 12px; color: #008259; border: none; display: block; width: 100%; box-sizing: border-box;">
+<td width="45%" style="background-color: #E8F5EE; padding: 20px; border-radius: 12px; color: #008259;">
 
 **Formación académica**
 
@@ -208,22 +198,19 @@ Backend Developer Jr.
 | **CECyTEH**, Tizayuca | Técnico en Programación | 2019 — 2022 |
 
 </td>
-</tr>
-<tr><td style="border: none; height: 10px;"></td></tr>
-<tr>
-<td align="center" style="background-color: #2ca880; padding: 15px; border-radius: 12px; border: none; display: block; width: 100%; box-sizing: border-box;">
+<td width="55%" align="center" style="background-color: #2ca880; padding: 20px; border-radius: 12px;">
 
 **Actividad en GitHub**
 <br><br>
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" style="max-width: 100%; height: auto;" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=CruzG1005&show_icons=true&hide_border=true&bg_color=2ca880&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF&hide_rank=true&include_all_commits=true" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" style="max-width: 100%; height: auto;" />
-<img height="150" src="https://github-readme-streak-stats-eight.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" style="max-width: 100%; height: auto;" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruzG1005&layout=compact&hide_border=true&bg_color=2ca880&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" />
+<img height="150" src="https://github-readme-streak-stats.vercel.app?user=CruzG1005&hide_border=true&background=2ca880&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=E8F5EE" />
 </div>
 
 <br>
@@ -240,8 +227,7 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== HABILIDADES - RESPONSIVE ===== -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+<div align="center">
 
 ![](https://img.shields.io/badge/TRABAJO_EN_EQUIPO-008259?style=for-the-badge&logo=team&logoColor=FFFFFF&color=008259)
 ![](https://img.shields.io/badge/COMUNICACIÓN_EFECTIVA-008259?style=for-the-badge&logo=wechat&logoColor=FFFFFF&color=008259)
@@ -265,7 +251,6 @@ Backend Developer Jr.
   <br><br>
 </div>
 
-<!-- ===== CONTACTO - RESPONSIVE ===== -->
 <div align="center">
 
 Si estás buscando un desarrollador junior con interés en seguir creciendo en desarrollo **backend, frontend o mobile**, puedes contactarme.
